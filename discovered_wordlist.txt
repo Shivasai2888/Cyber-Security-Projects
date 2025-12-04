@@ -1,4 +1,0 @@
-http://www.google.com  Status:200
-https://www.google.com  Status:200
-http://mail.google.com  Status:200
-https://mail.google.com  Status:200
